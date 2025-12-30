@@ -5,9 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-I’m a Data Engineer and Backend Python Developer with experience in building data pipelines.
-
-working with PySpark and Deltdeveloping RE
+I’m a Data Engineer and Backend Python Developer with experience in building data pipelines, working with PySpark and Delta Lake, and developing REST APIs using Python. I enjoy solving real-world problems, optimizing performance, and continuously learning new technologies.
 
 * 🌍  I'm based in Ahmedabad, India
 * ✉️  You can contact me at [nagarparth83@gmail.com](mailto:nagarparth83@gmail.com)
