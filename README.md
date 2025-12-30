@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hi, I’m Parth Nagar 👋<br>I’m a Data Engineer and Backend Python Developer with experience in building data pipelines.<br>working with PySpark and Deltdeveloping REST APIs using Python. I enjoy solving real-world problems, optimizing pa Lake, and erformance, and continuously learning new technologies.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Parth Nagar
+====================================================================================================================================
+
+Data Engineer
+-------------
+
+I’m a Data Engineer and Backend Python Developer with experience in building data pipelines.
+
+working with PySpark and Deltdeveloping RE
+
+* 🌍  I'm based in Ahmedabad, India
+* ✉️  You can contact me at [nagarparth83@gmail.com](mailto:nagarparth83@gmail.com)
+* 🧠  I'm currently learning AZURE
 
 
 ## 🌐 Socials:
